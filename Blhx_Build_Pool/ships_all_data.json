@@ -1,0 +1,4475 @@
+[
+    {
+        "shipName": "卡辛",
+        "shipRawName": "卡辛",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.005"
+    },
+    {
+        "shipName": "唐斯",
+        "shipRawName": "唐斯",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.006"
+    },
+    {
+        "shipName": "克雷文",
+        "shipRawName": "克雷文",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.008"
+    },
+    {
+        "shipName": "麦考尔",
+        "shipRawName": "麦考尔",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.009"
+    },
+    {
+        "shipName": "奥利克",
+        "shipRawName": "奥利克",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.015"
+    },
+    {
+        "shipName": "富特",
+        "shipRawName": "富特",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.016"
+    },
+    {
+        "shipName": "斯彭斯",
+        "shipRawName": "斯彭斯",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.017"
+    },
+    {
+        "shipName": "小猎兔犬",
+        "shipRawName": "小猎兔犬",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.086"
+    },
+    {
+        "shipName": "大斗犬",
+        "shipRawName": "大斗犬",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.087"
+    },
+    {
+        "shipName": "彗星",
+        "shipRawName": "彗星",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.088"
+    },
+    {
+        "shipName": "新月",
+        "shipRawName": "新月",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.089"
+    },
+    {
+        "shipName": "小天鹅",
+        "shipRawName": "小天鹅",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.090"
+    },
+    {
+        "shipName": "狐提",
+        "shipRawName": "狐提",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.091"
+    },
+    {
+        "shipName": "蒲",
+        "shipRawName": "不知火",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.168"
+    },
+    {
+        "shipName": "Z20",
+        "shipRawName": "Z20",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "铁血",
+        "shipNum": "NO.265"
+    },
+    {
+        "shipName": "Z21",
+        "shipRawName": "Z21",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "铁血",
+        "shipNum": "NO.266"
+    },
+    {
+        "shipName": "松",
+        "shipRawName": "睦月",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.271"
+    },
+    {
+        "shipName": "樟",
+        "shipRawName": "如月",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.272"
+    },
+    {
+        "shipName": "楙",
+        "shipRawName": "卯月",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.274"
+    },
+    {
+        "shipName": "杌",
+        "shipRawName": "水无月",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.276"
+    },
+    {
+        "shipName": "檧",
+        "shipRawName": "三日月",
+        "shipType": "驱逐",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.280"
+    },
+    {
+        "shipName": "杜威",
+        "shipRawName": "杜威",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.004"
+    },
+    {
+        "shipName": "格里德利",
+        "shipRawName": "格里德利",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.007"
+    },
+    {
+        "shipName": "弗莱彻",
+        "shipRawName": "弗莱彻",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.011"
+    },
+    {
+        "shipName": "撒切尔",
+        "shipRawName": "撒切尔",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.014"
+    },
+    {
+        "shipName": "本森",
+        "shipRawName": "本森",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.018"
+    },
+    {
+        "shipName": "西姆斯",
+        "shipRawName": "西姆斯",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.026"
+    },
+    {
+        "shipName": "哈曼",
+        "shipRawName": "哈曼",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.027"
+    },
+    {
+        "shipName": "女将",
+        "shipRawName": "女将",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.081"
+    },
+    {
+        "shipName": "阿卡司塔",
+        "shipRawName": "阿卡司塔",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.082"
+    },
+    {
+        "shipName": "热心",
+        "shipRawName": "热心",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.083"
+    },
+    {
+        "shipName": "命运女神",
+        "shipRawName": "命运女神",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.092"
+    },
+    {
+        "shipName": "猎人",
+        "shipRawName": "猎人",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.100"
+    },
+    {
+        "shipName": "天后",
+        "shipRawName": "天后",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.102"
+    },
+    {
+        "shipName": "枫",
+        "shipRawName": "晓",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.159"
+    },
+    {
+        "shipName": "梓",
+        "shipRawName": "雷",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.161"
+    },
+    {
+        "shipName": "柏",
+        "shipRawName": "电",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.162"
+    },
+    {
+        "shipName": "梿",
+        "shipRawName": "白露",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.163"
+    },
+    {
+        "shipName": "萩",
+        "shipRawName": "阳炎",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.167"
+    },
+    {
+        "shipName": "梅",
+        "shipRawName": "初春",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.171"
+    },
+    {
+        "shipName": "楉",
+        "shipRawName": "若叶",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.173"
+    },
+    {
+        "shipName": "檨",
+        "shipRawName": "初霜",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.174"
+    },
+    {
+        "shipName": "榎",
+        "shipRawName": "有明",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.175"
+    },
+    {
+        "shipName": "棭",
+        "shipRawName": "夕暮",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.176"
+    },
+    {
+        "shipName": "蓉",
+        "shipRawName": "黑潮",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.177"
+    },
+    {
+        "shipName": "藮",
+        "shipRawName": "亲潮",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.178"
+    },
+    {
+        "shipName": "贝利",
+        "shipRawName": "贝利",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.263"
+    },
+    {
+        "shipName": "Z19",
+        "shipRawName": "Z19",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "铁血",
+        "shipNum": "NO.264"
+    },
+    {
+        "shipName": "榊",
+        "shipRawName": "神风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.269"
+    },
+    {
+        "shipName": "棡",
+        "shipRawName": "松风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.270"
+    },
+    {
+        "shipName": "橗",
+        "shipRawName": "文月",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.277"
+    },
+    {
+        "shipName": "枨",
+        "shipRawName": "长月",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.278"
+    },
+    {
+        "shipName": "棈",
+        "shipRawName": "清波",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.293"
+    },
+    {
+        "shipName": "拉德福特",
+        "shipRawName": "拉德福特",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.299"
+    },
+    {
+        "shipName": "杰金斯",
+        "shipRawName": "杰金斯",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.300"
+    },
+    {
+        "shipName": "丘比特",
+        "shipRawName": "丘比特",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.306"
+    },
+    {
+        "shipName": "泽西",
+        "shipRawName": "泽西",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.307"
+    },
+    {
+        "shipName": "槆",
+        "shipRawName": "浦风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.316"
+    },
+    {
+        "shipName": "柉",
+        "shipRawName": "矶风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.317"
+    },
+    {
+        "shipName": "樇",
+        "shipRawName": "滨风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.318"
+    },
+    {
+        "shipName": "栭",
+        "shipRawName": "谷风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.319"
+    },
+    {
+        "shipName": "棹",
+        "shipRawName": "朝潮",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.331"
+    },
+    {
+        "shipName": "荙",
+        "shipRawName": "大潮",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.332"
+    },
+    {
+        "shipName": "樠",
+        "shipRawName": "满潮",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.333"
+    },
+    {
+        "shipName": "栘",
+        "shipRawName": "荒潮",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.334"
+    },
+    {
+        "shipName": "Z18",
+        "shipRawName": "Z18",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "铁血",
+        "shipNum": "NO.346"
+    },
+    {
+        "shipName": "福尔班",
+        "shipRawName": "福尔班",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.348"
+    },
+    {
+        "shipName": "勒马尔",
+        "shipRawName": "勒马尔",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.351"
+    },
+    {
+        "shipName": "布什",
+        "shipRawName": "布什",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.355"
+    },
+    {
+        "shipName": "霍比",
+        "shipRawName": "霍比",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.362"
+    },
+    {
+        "shipName": "科尔克",
+        "shipRawName": "科尔克",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.363"
+    },
+    {
+        "shipName": "黑泽伍德",
+        "shipRawName": "黑泽伍德",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.365"
+    },
+    {
+        "shipName": "樋",
+        "shipRawName": "旗风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.369"
+    },
+    {
+        "shipName": "金伯利",
+        "shipRawName": "金伯利",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.374"
+    },
+    {
+        "shipName": "回声",
+        "shipRawName": "回声",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.389"
+    },
+    {
+        "shipName": "艾尔温",
+        "shipRawName": "艾尔温",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.406"
+    },
+    {
+        "shipName": "贝奇",
+        "shipRawName": "贝奇",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.407"
+    },
+    {
+        "shipName": "斯坦利",
+        "shipRawName": "斯坦利",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.409"
+    },
+    {
+        "shipName": "斯莫利",
+        "shipRawName": "斯莫利",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.417"
+    },
+    {
+        "shipName": "哈尔西·鲍威尔",
+        "shipRawName": "哈尔西·鲍威尔",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.427"
+    },
+    {
+        "shipName": "椎",
+        "shipRawName": "追风",
+        "shipType": "驱逐",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.507"
+    },
+    {
+        "shipName": "泛用型布里",
+        "shipRawName": "泛用型布里",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "其他",
+        "shipNum": "NO.001"
+    },
+    {
+        "shipName": "莫里",
+        "shipRawName": "莫里",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.010"
+    },
+    {
+        "shipName": "查尔斯·奥斯本",
+        "shipRawName": "查尔斯·奥斯本",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.013"
+    },
+    {
+        "shipName": "拉菲",
+        "shipRawName": "拉菲",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.019"
+    },
+    {
+        "shipName": "格伦维尔",
+        "shipRawName": "格伦维尔",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.093"
+    },
+    {
+        "shipName": "萤火虫",
+        "shipRawName": "萤火虫",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.094"
+    },
+    {
+        "shipName": "勇敢",
+        "shipRawName": "勇敢",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.096"
+    },
+    {
+        "shipName": "标枪",
+        "shipRawName": "标枪",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.101"
+    },
+    {
+        "shipName": "吸血鬼",
+        "shipRawName": "吸血鬼",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.103"
+    },
+    {
+        "shipName": "桐",
+        "shipRawName": "吹雪",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.151"
+    },
+    {
+        "shipName": "柚",
+        "shipRawName": "绫波",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.155"
+    },
+    {
+        "shipName": "栀",
+        "shipRawName": "响",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.160"
+    },
+    {
+        "shipName": "栴",
+        "shipRawName": "时雨",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.165"
+    },
+    {
+        "shipName": "苓",
+        "shipRawName": "野分",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.170"
+    },
+    {
+        "shipName": "Z1",
+        "shipRawName": "Z1",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.233"
+    },
+    {
+        "shipName": "Z23",
+        "shipRawName": "Z23",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.236"
+    },
+    {
+        "shipName": "Z25",
+        "shipRawName": "Z25",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.237"
+    },
+    {
+        "shipName": "鞍山",
+        "shipRawName": "鞍山",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.253"
+    },
+    {
+        "shipName": "抚顺",
+        "shipRawName": "抚顺",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.254"
+    },
+    {
+        "shipName": "长春",
+        "shipRawName": "长春",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.255"
+    },
+    {
+        "shipName": "太原",
+        "shipRawName": "太原",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.256"
+    },
+    {
+        "shipName": "枥",
+        "shipRawName": "新月JP",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.295"
+    },
+    {
+        "shipName": "桸",
+        "shipRawName": "春月",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.296"
+    },
+    {
+        "shipName": "楛",
+        "shipRawName": "宵月",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.297"
+    },
+    {
+        "shipName": "尼古拉斯",
+        "shipRawName": "尼古拉斯",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.301"
+    },
+    {
+        "shipName": "无敌",
+        "shipRawName": "无敌",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.325"
+    },
+    {
+        "shipName": "火枪手",
+        "shipRawName": "火枪手",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.326"
+    },
+    {
+        "shipName": "Z35",
+        "shipRawName": "Z35",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.345"
+    },
+    {
+        "shipName": "鲁莽",
+        "shipRawName": "鲁莽",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.359"
+    },
+    {
+        "shipName": "棬",
+        "shipRawName": "卷波",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.370"
+    },
+    {
+        "shipName": "马拉尼",
+        "shipRawName": "马拉尼",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.375"
+    },
+    {
+        "shipName": "Z2",
+        "shipRawName": "Z2",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.379"
+    },
+    {
+        "shipName": "Z36",
+        "shipRawName": "Z36",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.388"
+    },
+    {
+        "shipName": "倔强",
+        "shipRawName": "倔强",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.395"
+    },
+    {
+        "shipName": "龙骑兵",
+        "shipRawName": "龙骑兵",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.415"
+    },
+    {
+        "shipName": "蕸",
+        "shipRawName": "霞",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.424"
+    },
+    {
+        "shipName": "朴",
+        "shipRawName": "浦波",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.429"
+    },
+    {
+        "shipName": "威严",
+        "shipRawName": "威严",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.431"
+    },
+    {
+        "shipName": "明斯克",
+        "shipRawName": "明斯克",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.432"
+    },
+    {
+        "shipName": "库珀",
+        "shipRawName": "库珀",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.444"
+    },
+    {
+        "shipName": "榵",
+        "shipRawName": "花月",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.449"
+    },
+    {
+        "shipName": "苌",
+        "shipRawName": "长波",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.450"
+    },
+    {
+        "shipName": "塔尔图",
+        "shipRawName": "塔尔图",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.452"
+    },
+    {
+        "shipName": "沃克兰",
+        "shipRawName": "沃克兰",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.457"
+    },
+    {
+        "shipName": "爱斯基摩人",
+        "shipRawName": "爱斯基摩人",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.460"
+    },
+    {
+        "shipName": "伊卡洛斯",
+        "shipRawName": "伊卡洛斯",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.465"
+    },
+    {
+        "shipName": "Z26",
+        "shipRawName": "Z26",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.466"
+    },
+    {
+        "shipName": "Z24",
+        "shipRawName": "Z24",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.487"
+    },
+    {
+        "shipName": "Z28",
+        "shipRawName": "Z28",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.488"
+    },
+    {
+        "shipName": "文琴佐·焦贝蒂",
+        "shipRawName": "文琴佐·焦贝蒂",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.490"
+    },
+    {
+        "shipName": "神速",
+        "shipRawName": "神速",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.491"
+    },
+    {
+        "shipName": "雷鸣",
+        "shipRawName": "雷鸣",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.497"
+    },
+    {
+        "shipName": "洪亮",
+        "shipRawName": "洪亮",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.499"
+    },
+    {
+        "shipName": "尼科洛索·达雷科",
+        "shipRawName": "尼科洛索·达雷科",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.500"
+    },
+    {
+        "shipName": "西北风",
+        "shipRawName": "西北风",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.501"
+    },
+    {
+        "shipName": "西南风",
+        "shipRawName": "西南风",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.502"
+    },
+    {
+        "shipName": "史蒂芬·波特",
+        "shipRawName": "史蒂芬·波特",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.509"
+    },
+    {
+        "shipName": "试作型布里MKII",
+        "shipRawName": "试作型布里MKII",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "其他",
+        "shipNum": "NO.002"
+    },
+    {
+        "shipName": "埃尔德里奇",
+        "shipRawName": "埃尔德里奇",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.028"
+    },
+    {
+        "shipName": "椿",
+        "shipRawName": "夕立",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.164"
+    },
+    {
+        "shipName": "莲",
+        "shipRawName": "雪风",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.166"
+    },
+    {
+        "shipName": "Z46",
+        "shipRawName": "Z46",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.267"
+    },
+    {
+        "shipName": "茳",
+        "shipRawName": "江风",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.288"
+    },
+    {
+        "shipName": "凯旋",
+        "shipRawName": "凯旋",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.347"
+    },
+    {
+        "shipName": "恶毒",
+        "shipRawName": "恶毒",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.394"
+    },
+    {
+        "shipName": "塔什干",
+        "shipRawName": "塔什干",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.433"
+    },
+    {
+        "shipName": "栎",
+        "shipRawName": "凉月",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.468"
+    },
+    {
+        "shipName": "塔什干(μ兵装)",
+        "shipRawName": "塔什干(μ兵装)",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.475"
+    },
+    {
+        "shipName": "恶毒(μ兵装)",
+        "shipRawName": "恶毒(μ兵装)",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.481"
+    },
+    {
+        "shipName": "艾伦·萨姆纳",
+        "shipRawName": "艾伦·萨姆纳",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.508"
+    },
+    {
+        "shipName": "特装型布里MKIII",
+        "shipRawName": "特装型布里MKIII",
+        "shipType": "驱逐",
+        "starLevelText": "海上传奇",
+        "starLevel": "UR",
+        "shipCamp": "其他",
+        "shipNum": "NO.003"
+    },
+    {
+        "shipName": "苝",
+        "shipRawName": "北风",
+        "shipType": "驱逐",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.Plan009"
+    },
+    {
+        "shipName": "布兰",
+        "shipRawName": "布兰",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab003"
+    },
+    {
+        "shipName": "群白之心",
+        "shipRawName": "群白之心",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab007"
+    },
+    {
+        "shipName": "22",
+        "shipRawName": "22",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "哔哩哔哩",
+        "shipNum": "NO.Collab021"
+    },
+    {
+        "shipName": "33",
+        "shipRawName": "33",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "哔哩哔哩",
+        "shipNum": "NO.Collab022"
+    },
+    {
+        "shipName": "猫音",
+        "shipRawName": "猫音",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "传颂之物",
+        "shipNum": "NO.Collab032"
+    },
+    {
+        "shipName": "绊爱",
+        "shipRawName": "绊爱",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "KizunaAI",
+        "shipNum": "NO.Collab041"
+    },
+    {
+        "shipName": "玛莉萝丝",
+        "shipRawName": "玛莉萝丝",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "DOAXVV",
+        "shipNum": "NO.Collab061"
+    },
+    {
+        "shipName": "奥马哈",
+        "shipRawName": "奥马哈",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.029"
+    },
+    {
+        "shipName": "罗利",
+        "shipRawName": "罗利",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.030"
+    },
+    {
+        "shipName": "利安得",
+        "shipRawName": "利安得",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.104"
+    },
+    {
+        "shipName": "貊",
+        "shipRawName": "长良",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.182"
+    },
+    {
+        "shipName": "貃",
+        "shipRawName": "阿武隈",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.187"
+    },
+    {
+        "shipName": "柯尼斯堡",
+        "shipRawName": "柯尼斯堡",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "铁血",
+        "shipNum": "NO.238"
+    },
+    {
+        "shipName": "卡尔斯鲁厄",
+        "shipRawName": "卡尔斯鲁厄",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "铁血",
+        "shipNum": "NO.239"
+    },
+    {
+        "shipName": "科隆",
+        "shipRawName": "科隆",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "铁血",
+        "shipNum": "NO.240"
+    },
+    {
+        "shipName": "里士满",
+        "shipRawName": "里士满",
+        "shipType": "轻巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.303"
+    },
+    {
+        "shipName": "布鲁克林",
+        "shipRawName": "布鲁克林",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.031"
+    },
+    {
+        "shipName": "菲尼克斯",
+        "shipRawName": "菲尼克斯",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.032"
+    },
+    {
+        "shipName": "亚特兰大",
+        "shipRawName": "亚特兰大",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.034"
+    },
+    {
+        "shipName": "朱诺",
+        "shipRawName": "朱诺",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.035"
+    },
+    {
+        "shipName": "阿基里斯",
+        "shipRawName": "阿基里斯",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.105"
+    },
+    {
+        "shipName": "阿贾克斯",
+        "shipRawName": "阿贾克斯",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.106"
+    },
+    {
+        "shipName": "南安普顿",
+        "shipRawName": "南安普顿",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.110"
+    },
+    {
+        "shipName": "阿瑞托莎",
+        "shipRawName": "阿瑞托莎",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.116"
+    },
+    {
+        "shipName": "加拉蒂亚",
+        "shipRawName": "加拉蒂亚",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.117"
+    },
+    {
+        "shipName": "貉",
+        "shipRawName": "五十铃",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.183"
+    },
+    {
+        "shipName": "莱比锡",
+        "shipRawName": "莱比锡",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "铁血",
+        "shipNum": "NO.241"
+    },
+    {
+        "shipName": "火奴鲁鲁",
+        "shipRawName": "火奴鲁鲁",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.304"
+    },
+    {
+        "shipName": "貆",
+        "shipRawName": "川内",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.308"
+    },
+    {
+        "shipName": "豻",
+        "shipRawName": "那珂",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.310"
+    },
+    {
+        "shipName": "斐济",
+        "shipRawName": "斐济",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.327"
+    },
+    {
+        "shipName": "牙买加",
+        "shipRawName": "牙买加",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.328"
+    },
+    {
+        "shipName": "孟菲斯",
+        "shipRawName": "孟菲斯",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.360"
+    },
+    {
+        "shipName": "纽卡斯尔",
+        "shipRawName": "纽卡斯尔",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.361"
+    },
+    {
+        "shipName": "康克德",
+        "shipRawName": "康克德",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.366"
+    },
+    {
+        "shipName": "库拉索",
+        "shipRawName": "库拉索",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.372"
+    },
+    {
+        "shipName": "杓鹬",
+        "shipRawName": "杓鹬",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.373"
+    },
+    {
+        "shipName": "圣胡安",
+        "shipRawName": "圣胡安",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.404"
+    },
+    {
+        "shipName": "格拉斯哥",
+        "shipRawName": "格拉斯哥",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.423"
+    },
+    {
+        "shipName": "马布尔黑德",
+        "shipRawName": "马布尔黑德",
+        "shipType": "轻巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.448"
+    },
+    {
+        "shipName": "海伦娜",
+        "shipRawName": "海伦娜",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.033"
+    },
+    {
+        "shipName": "克利夫兰",
+        "shipRawName": "克利夫兰",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.037"
+    },
+    {
+        "shipName": "哥伦比亚",
+        "shipRawName": "哥伦比亚",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.038"
+    },
+    {
+        "shipName": "谢菲尔德",
+        "shipRawName": "谢菲尔德",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.111"
+    },
+    {
+        "shipName": "格罗斯特",
+        "shipRawName": "格罗斯特",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.113"
+    },
+    {
+        "shipName": "爱丁堡",
+        "shipRawName": "爱丁堡",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.114"
+    },
+    {
+        "shipName": "欧若拉",
+        "shipRawName": "欧若拉",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.118"
+    },
+    {
+        "shipName": "狐",
+        "shipRawName": "夕张",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.179"
+    },
+    {
+        "shipName": "猤",
+        "shipRawName": "鬼怒",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.186"
+    },
+    {
+        "shipName": "猨",
+        "shipRawName": "最上",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.188"
+    },
+    {
+        "shipName": "狻",
+        "shipRawName": "三隈",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.189"
+    },
+    {
+        "shipName": "逸仙",
+        "shipRawName": "逸仙",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.257"
+    },
+    {
+        "shipName": "宁海",
+        "shipRawName": "宁海",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.258"
+    },
+    {
+        "shipName": "平海",
+        "shipRawName": "平海",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.259"
+    },
+    {
+        "shipName": "圣路易斯",
+        "shipRawName": "圣路易斯",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.305"
+    },
+    {
+        "shipName": "貎",
+        "shipRawName": "神通",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.309"
+    },
+    {
+        "shipName": "豼",
+        "shipRawName": "阿贺野",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.321"
+    },
+    {
+        "shipName": "丹佛",
+        "shipRawName": "丹佛",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.330"
+    },
+    {
+        "shipName": "小贝法",
+        "shipRawName": "小贝法",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.335"
+    },
+    {
+        "shipName": "埃米尔·贝尔汀",
+        "shipRawName": "埃米尔·贝尔汀",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.349"
+    },
+    {
+        "shipName": "小海伦娜",
+        "shipRawName": "小海伦娜",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.390"
+    },
+    {
+        "shipName": "小克利夫兰",
+        "shipRawName": "小克利夫兰",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.391"
+    },
+    {
+        "shipName": "小圣地亚哥",
+        "shipRawName": "小圣地亚哥",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.392"
+    },
+    {
+        "shipName": "伯明翰",
+        "shipRawName": "伯明翰",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.405"
+    },
+    {
+        "shipName": "黑太子",
+        "shipRawName": "黑太子",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.408"
+    },
+    {
+        "shipName": "克利夫兰(μ兵装)",
+        "shipRawName": "克利夫兰(μ兵装)",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.420"
+    },
+    {
+        "shipName": "谢菲尔德(μ兵装)",
+        "shipRawName": "谢菲尔德(μ兵装)",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.421"
+    },
+    {
+        "shipName": "比洛克西",
+        "shipRawName": "比洛克西",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.428"
+    },
+    {
+        "shipName": "水星纪念",
+        "shipRawName": "水星纪念",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.434"
+    },
+    {
+        "shipName": "拉·加利索尼埃",
+        "shipRawName": "拉·加利索尼埃",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.456"
+    },
+    {
+        "shipName": "纽伦堡",
+        "shipRawName": "纽伦堡",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.486"
+    },
+    {
+        "shipName": "应瑞",
+        "shipRawName": "应瑞",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.493"
+    },
+    {
+        "shipName": "肇和",
+        "shipRawName": "肇和",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "东煌",
+        "shipNum": "NO.494"
+    },
+    {
+        "shipName": "佩内洛珀",
+        "shipRawName": "佩内洛珀",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.495"
+    },
+    {
+        "shipName": "摩尔曼斯克",
+        "shipRawName": "摩尔曼斯克",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.498"
+    },
+    {
+        "shipName": "圣地亚哥",
+        "shipRawName": "圣地亚哥",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.036"
+    },
+    {
+        "shipName": "黛朵",
+        "shipRawName": "黛朵",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.107"
+    },
+    {
+        "shipName": "贝尔法斯特",
+        "shipRawName": "贝尔法斯特",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.115"
+    },
+    {
+        "shipName": "阿芙乐尔",
+        "shipRawName": "阿芙乐尔",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.262"
+    },
+    {
+        "shipName": "貅",
+        "shipRawName": "能代",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.322"
+    },
+    {
+        "shipName": "蒙彼利埃",
+        "shipRawName": "蒙彼利埃",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.329"
+    },
+    {
+        "shipName": "天狼星",
+        "shipRawName": "天狼星",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.371"
+    },
+    {
+        "shipName": "确捷",
+        "shipRawName": "确捷",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.393"
+    },
+    {
+        "shipName": "基洛夫",
+        "shipRawName": "基洛夫",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.435"
+    },
+    {
+        "shipName": "恰巴耶夫",
+        "shipRawName": "恰巴耶夫",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.436"
+    },
+    {
+        "shipName": "里诺",
+        "shipRawName": "里诺",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.445"
+    },
+    {
+        "shipName": "圣女贞德",
+        "shipRawName": "圣女贞德",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.454"
+    },
+    {
+        "shipName": "赫敏",
+        "shipRawName": "赫敏",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.463"
+    },
+    {
+        "shipName": "黛朵(μ兵装)",
+        "shipRawName": "黛朵(μ兵装)",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.476"
+    },
+    {
+        "shipName": "阿布鲁奇公爵",
+        "shipRawName": "阿布鲁奇公爵",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.503"
+    },
+    {
+        "shipName": "海王星",
+        "shipRawName": "海王星",
+        "shipType": "轻巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.Plan001"
+    },
+    {
+        "shipName": "西雅图",
+        "shipRawName": "西雅图",
+        "shipType": "轻巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.Plan007"
+    },
+    {
+        "shipName": "美因茨",
+        "shipRawName": "美因茨",
+        "shipType": "轻巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.Plan015"
+    },
+    {
+        "shipName": "涅普顿",
+        "shipRawName": "涅普顿",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab001"
+    },
+    {
+        "shipName": "绀紫之心",
+        "shipRawName": "绀紫之心",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab005"
+    },
+    {
+        "shipName": "露露缇耶",
+        "shipRawName": "露露缇耶",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "传颂之物",
+        "shipNum": "NO.Collab033"
+    },
+    {
+        "shipName": "海咲",
+        "shipRawName": "海咲",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "DOAXVV",
+        "shipNum": "NO.Collab064"
+    },
+    {
+        "shipName": "莫妮卡",
+        "shipRawName": "莫妮卡",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "DOAXVV",
+        "shipNum": "NO.Collab067"
+    },
+    {
+        "shipName": "彭萨科拉",
+        "shipRawName": "彭萨科拉",
+        "shipType": "重巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.039"
+    },
+    {
+        "shipName": "盐湖城",
+        "shipRawName": "盐湖城",
+        "shipType": "重巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.040"
+    },
+    {
+        "shipName": "狼",
+        "shipRawName": "古鹰",
+        "shipType": "重巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.190"
+    },
+    {
+        "shipName": "狌",
+        "shipRawName": "加古",
+        "shipType": "重巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.191"
+    },
+    {
+        "shipName": "犹",
+        "shipRawName": "青叶",
+        "shipType": "重巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.192"
+    },
+    {
+        "shipName": "猅",
+        "shipRawName": "衣笠",
+        "shipType": "重巡",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "重樱",
+        "shipNum": "NO.193"
+    },
+    {
+        "shipName": "北安普敦",
+        "shipRawName": "北安普敦",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.041"
+    },
+    {
+        "shipName": "芝加哥",
+        "shipRawName": "芝加哥",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.042"
+    },
+    {
+        "shipName": "波特兰",
+        "shipRawName": "波特兰",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.044"
+    },
+    {
+        "shipName": "什罗普郡",
+        "shipRawName": "什罗普郡",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.120"
+    },
+    {
+        "shipName": "肯特",
+        "shipRawName": "肯特",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.121"
+    },
+    {
+        "shipName": "萨福克",
+        "shipRawName": "萨福克",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.122"
+    },
+    {
+        "shipName": "诺福克",
+        "shipRawName": "诺福克",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.123"
+    },
+    {
+        "shipName": "獌",
+        "shipRawName": "妙高",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.196"
+    },
+    {
+        "shipName": "狏",
+        "shipRawName": "那智",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.197"
+    },
+    {
+        "shipName": "苏塞克斯",
+        "shipRawName": "苏塞克斯",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.337"
+    },
+    {
+        "shipName": "特伦托",
+        "shipRawName": "特伦托",
+        "shipType": "重巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.414"
+    },
+    {
+        "shipName": "休斯敦",
+        "shipRawName": "休斯敦",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.043"
+    },
+    {
+        "shipName": "印第安纳波利斯",
+        "shipRawName": "印第安纳波利斯",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.045"
+    },
+    {
+        "shipName": "阿斯托利亚",
+        "shipRawName": "阿斯托利亚",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.046"
+    },
+    {
+        "shipName": "昆西",
+        "shipRawName": "昆西",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.047"
+    },
+    {
+        "shipName": "文森斯",
+        "shipRawName": "文森斯",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.048"
+    },
+    {
+        "shipName": "威奇塔",
+        "shipRawName": "威奇塔",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.049"
+    },
+    {
+        "shipName": "伦敦",
+        "shipRawName": "伦敦",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.119"
+    },
+    {
+        "shipName": "多塞特郡",
+        "shipRawName": "多塞特郡",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.124"
+    },
+    {
+        "shipName": "约克",
+        "shipRawName": "约克",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.125"
+    },
+    {
+        "shipName": "埃克塞特",
+        "shipRawName": "埃克塞特",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.126"
+    },
+    {
+        "shipName": "狳",
+        "shipRawName": "足柄",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.198"
+    },
+    {
+        "shipName": "希佩尔海军上将",
+        "shipRawName": "希佩尔海军上将",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.242"
+    },
+    {
+        "shipName": "德意志",
+        "shipRawName": "德意志",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.245"
+    },
+    {
+        "shipName": "斯佩伯爵海军上将",
+        "shipRawName": "斯佩伯爵海军上将",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.246"
+    },
+    {
+        "shipName": "狺",
+        "shipRawName": "铃谷",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.382"
+    },
+    {
+        "shipName": "希佩尔海军上将(μ兵装)",
+        "shipRawName": "希佩尔海军上将(μ兵装)",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.422"
+    },
+    {
+        "shipName": "猁",
+        "shipRawName": "熊野",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.469"
+    },
+    {
+        "shipName": "巴尔的摩(μ兵装)",
+        "shipRawName": "巴尔的摩(μ兵装)",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.478"
+    },
+    {
+        "shipName": "巴尔的摩",
+        "shipRawName": "巴尔的摩",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.050"
+    },
+    {
+        "shipName": "獒",
+        "shipRawName": "高雄",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.200"
+    },
+    {
+        "shipName": "犬",
+        "shipRawName": "爱宕",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.201"
+    },
+    {
+        "shipName": "犮",
+        "shipRawName": "摩耶",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.202"
+    },
+    {
+        "shipName": "猋",
+        "shipRawName": "鸟海",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.203"
+    },
+    {
+        "shipName": "欧根亲王",
+        "shipRawName": "欧根亲王",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.244"
+    },
+    {
+        "shipName": "明尼阿波利斯",
+        "shipRawName": "明尼阿波利斯",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.364"
+    },
+    {
+        "shipName": "扎拉",
+        "shipRawName": "扎拉",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.413"
+    },
+    {
+        "shipName": "布莱默顿",
+        "shipRawName": "布莱默顿",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.443"
+    },
+    {
+        "shipName": "阿尔及利亚",
+        "shipRawName": "阿尔及利亚",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.455"
+    },
+    {
+        "shipName": "罗恩(μ兵装)",
+        "shipRawName": "罗恩(μ兵装)",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.479"
+    },
+    {
+        "shipName": "海因里希亲王",
+        "shipRawName": "海因里希亲王",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.483"
+    },
+    {
+        "shipName": "波拉",
+        "shipRawName": "波拉",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.489"
+    },
+    {
+        "shipName": "塔林",
+        "shipRawName": "塔林",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.496"
+    },
+    {
+        "shipName": "峦",
+        "shipRawName": "伊吹",
+        "shipType": "重巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.Plan003"
+    },
+    {
+        "shipName": "罗恩",
+        "shipRawName": "罗恩",
+        "shipType": "重巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.Plan005"
+    },
+    {
+        "shipName": "路易九世",
+        "shipRawName": "路易九世",
+        "shipType": "重巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.Plan006"
+    },
+    {
+        "shipName": "柴郡",
+        "shipRawName": "柴郡",
+        "shipType": "重巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.Plan013"
+    },
+    {
+        "shipName": "德雷克",
+        "shipRawName": "德雷克",
+        "shipType": "重巡",
+        "starLevelText": "决战方案",
+        "starLevel": "UR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.Plan014"
+    },
+    {
+        "shipName": "猨",
+        "shipRawName": "最上",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.188"
+    },
+    {
+        "shipName": "诺瓦露",
+        "shipRawName": "诺瓦露",
+        "shipType": "重巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab002"
+    },
+    {
+        "shipName": "圣黑之心",
+        "shipRawName": "圣黑之心",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab006"
+    },
+    {
+        "shipName": "久远",
+        "shipRawName": "久远",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "传颂之物",
+        "shipNum": "NO.Collab031"
+    },
+    {
+        "shipName": "绊爱·Elegant",
+        "shipRawName": "绊爱·Elegant",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "KizunaAI",
+        "shipNum": "NO.Collab042"
+    },
+    {
+        "shipName": "霞DOA",
+        "shipRawName": "霞DOA",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "DOAXVV",
+        "shipNum": "NO.Collab063"
+    },
+    {
+        "shipName": "猉",
+        "shipRawName": "吾妻",
+        "shipType": "超巡",
+        "starLevelText": "决战方案",
+        "starLevel": "UR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.Plan010"
+    },
+    {
+        "shipName": "反击",
+        "shipRawName": "反击",
+        "shipType": "战巡",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "皇家",
+        "shipNum": "NO.128"
+    },
+    {
+        "shipName": "声望",
+        "shipRawName": "声望",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.127"
+    },
+    {
+        "shipName": "鲤",
+        "shipRawName": "金刚",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.204"
+    },
+    {
+        "shipName": "鲟",
+        "shipRawName": "比叡",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.205"
+    },
+    {
+        "shipName": "鲑",
+        "shipRawName": "榛名",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.206"
+    },
+    {
+        "shipName": "鳗",
+        "shipRawName": "雾岛",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.207"
+    },
+    {
+        "shipName": "沙恩霍斯特",
+        "shipRawName": "沙恩霍斯特",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.248"
+    },
+    {
+        "shipName": "格奈森瑙",
+        "shipRawName": "格奈森瑙",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.249"
+    },
+    {
+        "shipName": "敦刻尔克",
+        "shipRawName": "敦刻尔克",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.352"
+    },
+    {
+        "shipName": "小鲟",
+        "shipRawName": "小比叡",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.383"
+    },
+    {
+        "shipName": "小声望",
+        "shipRawName": "小声望",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.451"
+    },
+    {
+        "shipName": "小鳐",
+        "shipRawName": "小天城",
+        "shipType": "战巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.510"
+    },
+    {
+        "shipName": "胡德",
+        "shipRawName": "胡德",
+        "shipType": "战巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.129"
+    },
+    {
+        "shipName": "鳐",
+        "shipRawName": "天城",
+        "shipType": "战巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.367"
+    },
+    {
+        "shipName": "奥丁",
+        "shipRawName": "奥丁",
+        "shipType": "战巡",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.Plan016"
+    },
+    {
+        "shipName": "内华达",
+        "shipRawName": "内华达",
+        "shipType": "战列",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.052"
+    },
+    {
+        "shipName": "俄克拉荷马",
+        "shipRawName": "俄克拉荷马",
+        "shipType": "战列",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.053"
+    },
+    {
+        "shipName": "宾夕法尼亚",
+        "shipRawName": "宾夕法尼亚",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.054"
+    },
+    {
+        "shipName": "田纳西",
+        "shipRawName": "田纳西",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.058"
+    },
+    {
+        "shipName": "加利福尼亚",
+        "shipRawName": "加利福尼亚",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.059"
+    },
+    {
+        "shipName": "魟",
+        "shipRawName": "扶桑",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.208"
+    },
+    {
+        "shipName": "鲼",
+        "shipRawName": "山城",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.209"
+    },
+    {
+        "shipName": "鳌",
+        "shipRawName": "伊势",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.210"
+    },
+    {
+        "shipName": "螯",
+        "shipRawName": "日向",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.211"
+    },
+    {
+        "shipName": "加富尔伯爵",
+        "shipRawName": "加富尔伯爵",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.411"
+    },
+    {
+        "shipName": "亚利桑那",
+        "shipRawName": "亚利桑那",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.055"
+    },
+    {
+        "shipName": "科罗拉多",
+        "shipRawName": "科罗拉多",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.060"
+    },
+    {
+        "shipName": "马里兰",
+        "shipRawName": "马里兰",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.061"
+    },
+    {
+        "shipName": "西弗吉尼亚",
+        "shipRawName": "西弗吉尼亚",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.062"
+    },
+    {
+        "shipName": "伊丽莎白女王",
+        "shipRawName": "伊丽莎白女王",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.130"
+    },
+    {
+        "shipName": "纳尔逊",
+        "shipRawName": "纳尔逊",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.132"
+    },
+    {
+        "shipName": "罗德尼",
+        "shipRawName": "罗德尼",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.133"
+    },
+    {
+        "shipName": "鲛",
+        "shipRawName": "陆奥",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.213"
+    },
+    {
+        "shipName": "朱利奥·凯撒",
+        "shipRawName": "朱利奥·凯撒",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.412"
+    },
+    {
+        "shipName": "甘古特",
+        "shipRawName": "甘古特",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.437"
+    },
+    {
+        "shipName": "英勇",
+        "shipRawName": "英勇",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.464"
+    },
+    {
+        "shipName": "北卡罗来纳",
+        "shipRawName": "北卡罗来纳",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.063"
+    },
+    {
+        "shipName": "华盛顿",
+        "shipRawName": "华盛顿",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.064"
+    },
+    {
+        "shipName": "南达科他",
+        "shipRawName": "南达科他",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.065"
+    },
+    {
+        "shipName": "厌战",
+        "shipRawName": "厌战",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.131"
+    },
+    {
+        "shipName": "英王乔治五世",
+        "shipRawName": "英王乔治五世",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.134"
+    },
+    {
+        "shipName": "威尔士亲王",
+        "shipRawName": "威尔士亲王",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.135"
+    },
+    {
+        "shipName": "约克公爵",
+        "shipRawName": "约克公爵",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.136"
+    },
+    {
+        "shipName": "鲨",
+        "shipRawName": "长门",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.212"
+    },
+    {
+        "shipName": "鲣",
+        "shipRawName": "纪伊",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.214"
+    },
+    {
+        "shipName": "䲠",
+        "shipRawName": "土佐",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.215"
+    },
+    {
+        "shipName": "俾斯麦",
+        "shipRawName": "俾斯麦",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.250"
+    },
+    {
+        "shipName": "提尔比茨",
+        "shipRawName": "提尔比茨",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.251"
+    },
+    {
+        "shipName": "鲐",
+        "shipRawName": "三笠",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.320"
+    },
+    {
+        "shipName": "让·巴尔",
+        "shipRawName": "让·巴尔",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.353"
+    },
+    {
+        "shipName": "马萨诸塞",
+        "shipRawName": "马萨诸塞",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.354"
+    },
+    {
+        "shipName": "鸾BB",
+        "shipRawName": "加贺BB",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.368"
+    },
+    {
+        "shipName": "阿拉巴马",
+        "shipRawName": "阿拉巴马",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.401"
+    },
+    {
+        "shipName": "利托里奥",
+        "shipRawName": "利托里奥",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.410"
+    },
+    {
+        "shipName": "加斯科涅(μ兵装)",
+        "shipRawName": "加斯科涅(μ兵装)",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.418"
+    },
+    {
+        "shipName": "鲪",
+        "shipRawName": "骏河",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.425"
+    },
+    {
+        "shipName": "苏维埃贝拉罗斯",
+        "shipRawName": "苏维埃贝拉罗斯",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.440"
+    },
+    {
+        "shipName": "苏维埃罗西亚",
+        "shipRawName": "苏维埃罗西亚",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "北方联合",
+        "shipNum": "NO.441"
+    },
+    {
+        "shipName": "黎塞留",
+        "shipRawName": "黎塞留",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.453"
+    },
+    {
+        "shipName": "豪",
+        "shipRawName": "豪",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.461"
+    },
+    {
+        "shipName": "维托里奥·维内托",
+        "shipRawName": "维托里奥·维内托",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.504"
+    },
+    {
+        "shipName": "君主",
+        "shipRawName": "君主",
+        "shipType": "战列",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.Plan002"
+    },
+    {
+        "shipName": "侌",
+        "shipRawName": "出云",
+        "shipType": "战列",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.Plan004"
+    },
+    {
+        "shipName": "佐治亚",
+        "shipRawName": "佐治亚",
+        "shipType": "战列",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.Plan008"
+    },
+    {
+        "shipName": "腓特烈大帝",
+        "shipRawName": "腓特烈大帝",
+        "shipType": "战列",
+        "starLevelText": "决战方案",
+        "starLevel": "UR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.Plan011"
+    },
+    {
+        "shipName": "加斯科涅",
+        "shipRawName": "加斯科涅",
+        "shipType": "战列",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "维希教廷",
+        "shipNum": "NO.Plan012"
+    },
+    {
+        "shipName": "香槟",
+        "shipRawName": "香槟",
+        "shipType": "战列",
+        "starLevelText": "最高方案",
+        "starLevel": "SSR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.Plan017"
+    },
+    {
+        "shipName": "绊爱·SuperGamer",
+        "shipRawName": "绊爱·SuperGamer",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "KizunaAI",
+        "shipNum": "NO.Collab044"
+    },
+    {
+        "shipName": "穗香",
+        "shipRawName": "穗香",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "DOAXVV",
+        "shipNum": "NO.Collab062"
+    },
+    {
+        "shipName": "凪咲",
+        "shipRawName": "凪咲",
+        "shipType": "战列",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "DOAXVV",
+        "shipNum": "NO.Collab065"
+    },
+    {
+        "shipName": "胡蜂",
+        "shipRawName": "胡蜂",
+        "shipType": "航母",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.079"
+    },
+    {
+        "shipName": "列克星敦",
+        "shipRawName": "列克星敦",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.073"
+    },
+    {
+        "shipName": "萨拉托加",
+        "shipRawName": "萨拉托加",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.074"
+    },
+    {
+        "shipName": "约克城",
+        "shipRawName": "约克城",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.076"
+    },
+    {
+        "shipName": "大黄蜂",
+        "shipRawName": "大黄蜂",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.078"
+    },
+    {
+        "shipName": "鹰",
+        "shipRawName": "鹰",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.143"
+    },
+    {
+        "shipName": "皇家方舟",
+        "shipRawName": "皇家方舟",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.144"
+    },
+    {
+        "shipName": "光荣",
+        "shipRawName": "光荣",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.148"
+    },
+    {
+        "shipName": "蛟",
+        "shipRawName": "苍龙",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.226"
+    },
+    {
+        "shipName": "龙",
+        "shipRawName": "飞龙",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.227"
+    },
+    {
+        "shipName": "小凰",
+        "shipRawName": "小赤城",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.384"
+    },
+    {
+        "shipName": "小齐柏林",
+        "shipRawName": "小齐柏林",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.385"
+    },
+    {
+        "shipName": "贝亚恩",
+        "shipRawName": "贝亚恩",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.458"
+    },
+    {
+        "shipName": "小光辉",
+        "shipRawName": "小光辉",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.459"
+    },
+    {
+        "shipName": "企业",
+        "shipRawName": "企业",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.077"
+    },
+    {
+        "shipName": "光辉",
+        "shipRawName": "光辉",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.145"
+    },
+    {
+        "shipName": "胜利",
+        "shipRawName": "胜利",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.146"
+    },
+    {
+        "shipName": "可畏",
+        "shipRawName": "可畏",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.147"
+    },
+    {
+        "shipName": "凰",
+        "shipRawName": "赤城",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.224"
+    },
+    {
+        "shipName": "鸾",
+        "shipRawName": "加贺",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.225"
+    },
+    {
+        "shipName": "鹬",
+        "shipRawName": "翔鹤",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.228"
+    },
+    {
+        "shipName": "鹤",
+        "shipRawName": "瑞鹤",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.229"
+    },
+    {
+        "shipName": "鹩",
+        "shipRawName": "大凤",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.230"
+    },
+    {
+        "shipName": "齐柏林伯爵",
+        "shipRawName": "齐柏林伯爵",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.252"
+    },
+    {
+        "shipName": "埃塞克斯",
+        "shipRawName": "埃塞克斯",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.357"
+    },
+    {
+        "shipName": "香格里拉",
+        "shipRawName": "香格里拉",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.378"
+    },
+    {
+        "shipName": "邦克山",
+        "shipRawName": "邦克山",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.380"
+    },
+    {
+        "shipName": "凰(μ兵装)",
+        "shipRawName": "赤城(μ兵装)",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.419"
+    },
+    {
+        "shipName": "无畏",
+        "shipRawName": "无畏",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.442"
+    },
+    {
+        "shipName": "鹩(μ兵装)",
+        "shipRawName": "大凤(μ兵装)",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.474"
+    },
+    {
+        "shipName": "光辉(μ兵装)",
+        "shipRawName": "光辉(μ兵装)",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.480"
+    },
+    {
+        "shipName": "彼得·史特拉塞",
+        "shipRawName": "彼得·史特拉塞",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.482"
+    },
+    {
+        "shipName": "天鹰",
+        "shipRawName": "天鹰",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.505"
+    },
+    {
+        "shipName": "鵗",
+        "shipRawName": "信浓",
+        "shipType": "航母",
+        "starLevelText": "海上传奇",
+        "starLevel": "UR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.231"
+    },
+    {
+        "shipName": "龙·META",
+        "shipRawName": "飞龙·META",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "余烬",
+        "shipNum": "NO.META001"
+    },
+    {
+        "shipName": "皇家方舟·META",
+        "shipRawName": "皇家方舟·META",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "余烬",
+        "shipNum": "NO.META002"
+    },
+    {
+        "shipName": "贝露",
+        "shipRawName": "贝露",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab004"
+    },
+    {
+        "shipName": "翡绿之心",
+        "shipRawName": "翡绿之心",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "海王星",
+        "shipNum": "NO.Collab008"
+    },
+    {
+        "shipName": "芙米露露",
+        "shipRawName": "芙米露露",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "传颂之物",
+        "shipNum": "NO.Collab036"
+    },
+    {
+        "shipName": "绊爱·Anniversary",
+        "shipRawName": "绊爱·Anniversary",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "KizunaAI",
+        "shipNum": "NO.Collab043"
+    },
+    {
+        "shipName": "女天狗",
+        "shipRawName": "女天狗",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "DOAXVV",
+        "shipNum": "NO.Collab066"
+    },
+    {
+        "shipName": "魟",
+        "shipRawName": "扶桑",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.208"
+    },
+    {
+        "shipName": "鲼",
+        "shipRawName": "山城",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.209"
+    },
+    {
+        "shipName": "鳌",
+        "shipRawName": "伊势",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.210"
+    },
+    {
+        "shipName": "螯",
+        "shipRawName": "日向",
+        "shipType": "战列",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.211"
+    },
+    {
+        "shipName": "博格",
+        "shipRawName": "博格",
+        "shipType": "轻航",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.071"
+    },
+    {
+        "shipName": "兰利",
+        "shipRawName": "兰利",
+        "shipType": "轻航",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.072"
+    },
+    {
+        "shipName": "突击者",
+        "shipRawName": "突击者",
+        "shipType": "轻航",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.075"
+    },
+    {
+        "shipName": "竞技神",
+        "shipRawName": "竞技神",
+        "shipType": "轻航",
+        "starLevelText": "普通",
+        "starLevel": "N",
+        "shipCamp": "皇家",
+        "shipNum": "NO.140"
+    },
+    {
+        "shipName": "长岛",
+        "shipRawName": "长岛",
+        "shipType": "轻航",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.070"
+    },
+    {
+        "shipName": "鸱",
+        "shipRawName": "飞鹰",
+        "shipType": "轻航",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.218"
+    },
+    {
+        "shipName": "鸢",
+        "shipRawName": "隼鹰",
+        "shipType": "轻航",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.219"
+    },
+    {
+        "shipName": "鹞",
+        "shipRawName": "祥凤",
+        "shipType": "轻航",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "重樱",
+        "shipNum": "NO.222"
+    },
+    {
+        "shipName": "卡萨布兰卡",
+        "shipRawName": "卡萨布兰卡",
+        "shipType": "轻航",
+        "starLevelText": "稀有",
+        "starLevel": "R",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.447"
+    },
+    {
+        "shipName": "独角兽",
+        "shipRawName": "独角兽",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.142"
+    },
+    {
+        "shipName": "凤",
+        "shipRawName": "凤翔",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.220"
+    },
+    {
+        "shipName": "枭",
+        "shipRawName": "龙骧",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.223"
+    },
+    {
+        "shipName": "追赶者",
+        "shipRawName": "追赶者",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.376"
+    },
+    {
+        "shipName": "独立",
+        "shipRawName": "独立",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.377"
+    },
+    {
+        "shipName": "巴丹",
+        "shipRawName": "巴丹",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.403"
+    },
+    {
+        "shipName": "鹂",
+        "shipRawName": "千岁",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.470"
+    },
+    {
+        "shipName": "鹃",
+        "shipRawName": "千代田",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.471"
+    },
+    {
+        "shipName": "普林斯顿",
+        "shipRawName": "普林斯顿",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.473"
+    },
+    {
+        "shipName": "威悉",
+        "shipRawName": "威悉",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.485"
+    },
+    {
+        "shipName": "半人马",
+        "shipRawName": "半人马",
+        "shipType": "轻航",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.356"
+    },
+    {
+        "shipName": "鸗",
+        "shipRawName": "龙凤",
+        "shipType": "轻航",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.426"
+    },
+    {
+        "shipName": "英仙座",
+        "shipRawName": "英仙座",
+        "shipType": "轻航",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.462"
+    },
+    {
+        "shipName": "乌璐露",
+        "shipRawName": "乌璐露",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "传颂之物",
+        "shipNum": "NO.Collab034"
+    },
+    {
+        "shipName": "萨拉娜",
+        "shipRawName": "萨拉娜",
+        "shipType": "轻航",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "传颂之物",
+        "shipNum": "NO.Collab035"
+    },
+    {
+        "shipName": "黑暗界",
+        "shipRawName": "黑暗界",
+        "shipType": "重炮",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.149"
+    },
+    {
+        "shipName": "恐怖",
+        "shipRawName": "恐怖",
+        "shipType": "重炮",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.150"
+    },
+    {
+        "shipName": "阿贝克隆比",
+        "shipRawName": "阿贝克隆比",
+        "shipType": "重炮",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "皇家",
+        "shipNum": "NO.336"
+    },
+    {
+        "shipName": "女灶神",
+        "shipRawName": "女灶神",
+        "shipType": "维修",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.080"
+    },
+    {
+        "shipName": "茗",
+        "shipRawName": "明石",
+        "shipType": "维修",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.232"
+    },
+    {
+        "shipName": "双叶梦",
+        "shipRawName": "伊26",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.339"
+    },
+    {
+        "shipName": "冴矢",
+        "shipRawName": "伊58",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.340"
+    },
+    {
+        "shipName": "鲦鱼",
+        "shipRawName": "鲦鱼",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.342"
+    },
+    {
+        "shipName": "U-557",
+        "shipRawName": "U-557",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.344"
+    },
+    {
+        "shipName": "絮库夫",
+        "shipRawName": "絮库夫",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "自由鸢尾",
+        "shipNum": "NO.350"
+    },
+    {
+        "shipName": "U-556",
+        "shipRawName": "U-556",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.386"
+    },
+    {
+        "shipName": "U-73",
+        "shipRawName": "U-73",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.387"
+    },
+    {
+        "shipName": "双叶擒",
+        "shipRawName": "伊25",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.396"
+    },
+    {
+        "shipName": "冴梦",
+        "shipRawName": "伊56",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.397"
+    },
+    {
+        "shipName": "U-522",
+        "shipRawName": "U-522",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.400"
+    },
+    {
+        "shipName": "U-110",
+        "shipRawName": "U-110",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.416"
+    },
+    {
+        "shipName": "蓝鳃鱼",
+        "shipRawName": "蓝鳃鱼",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.446"
+    },
+    {
+        "shipName": "大青花鱼(μ兵装)",
+        "shipRawName": "大青花鱼(μ兵装)",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.477"
+    },
+    {
+        "shipName": "U-410",
+        "shipRawName": "U-410",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.492"
+    },
+    {
+        "shipName": "托里拆利",
+        "shipRawName": "托里拆利",
+        "shipType": "潜艇",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.506"
+    },
+    {
+        "shipName": "衣玖",
+        "shipRawName": "伊19",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.338"
+    },
+    {
+        "shipName": "U-81",
+        "shipRawName": "U-81",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.341"
+    },
+    {
+        "shipName": "U-47",
+        "shipRawName": "U-47",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.343"
+    },
+    {
+        "shipName": "大青花鱼",
+        "shipRawName": "大青花鱼",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.358"
+    },
+    {
+        "shipName": "十纱",
+        "shipRawName": "伊13",
+        "shipType": "潜母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.381"
+    },
+    {
+        "shipName": "伊吕波",
+        "shipRawName": "伊168",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.398"
+    },
+    {
+        "shipName": "U-101",
+        "shipRawName": "U-101",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.399"
+    },
+    {
+        "shipName": "棘鳍",
+        "shipRawName": "棘鳍",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.402"
+    },
+    {
+        "shipName": "U-96",
+        "shipRawName": "U-96",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.467"
+    },
+    {
+        "shipName": "U-37",
+        "shipRawName": "U-37",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.484"
+    },
+    {
+        "shipName": "㭴",
+        "shipRawName": "樫野",
+        "shipType": "运输",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.472"
+    },
+    {
+        "shipName": "花园",
+        "shipRawName": "新泽西",
+        "shipType": "战列",
+        "starLevelText": "海上传奇",
+        "starLevel": "UR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "卡莉永",
+        "shipRawName": "提康德罗加",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "雾城",
+        "shipRawName": "旧金山",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "喷水鱼",
+        "shipRawName": "射水鱼",
+        "shipType": "潜艇",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "树城",
+        "shipRawName": "博伊西",
+        "shipType": "轻巡",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "赛普拉斯",
+        "shipRawName": "莫里森",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "小企业",
+        "shipRawName": "小企业",
+        "shipType": "航母",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "海伦娜·META",
+        "shipRawName": "海伦娜·META",
+        "shipType": "轻巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "余烬",
+        "shipNum": "NO.META003"
+    },
+    {
+        "shipName": "枟",
+        "shipRawName": "风云",
+        "shipType": "驱逐",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "杉",
+        "shipRawName": "白雪",
+        "shipType": "驱逐",
+        "starLevelText": "精锐",
+        "starLevel": "SR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.000"
+    },
+    {
+        "shipName": "安克雷奇",
+        "shipRawName": "安克雷奇",
+        "shipType": "重巡",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "白鹰",
+        "shipNum": "NO.Plan018"
+    },
+    {
+        "shipName": "鹫",
+        "shipRawName": "白龙",
+        "shipType": "航母",
+        "starLevelText": "海上传奇",
+        "starLevel": "UR",
+        "shipCamp": "重樱",
+        "shipNum": "NO.Plan019"
+    },
+    {
+        "shipName": "埃吉尔",
+        "shipRawName": "埃吉尔",
+        "shipType": "超巡",
+        "starLevelText": "海上传奇",
+        "starLevel": "UR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.Plan020"
+    },
+    {
+        "shipName": "奥古斯特·冯·帕塞瓦尔",
+        "shipRawName": "奥古斯特·冯·帕塞瓦尔",
+        "shipType": "航母",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "铁血",
+        "shipNum": "NO.Plan021"
+    },
+    {
+        "shipName": "马可·波罗",
+        "shipRawName": "马可·波罗",
+        "shipType": "战列",
+        "starLevelText": "超稀有",
+        "starLevel": "SSR",
+        "shipCamp": "撒丁帝国",
+        "shipNum": "NO.Plan022"
+    }
+]
