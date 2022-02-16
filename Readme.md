@@ -1,7 +1,9 @@
 <div align="center">
-## resource
 
-## **[mybot](https://github.com/WriteCode-ChangeWorld/mybot)机器人:robot:的战备仓库/预设资源库**
+
+## resource V0.1.0
+
+## **一个用于存储 [mybot](https://github.com/WriteCode-ChangeWorld/mybot) 机器人:robot:的预设资源仓库**
 
 </div>
 
